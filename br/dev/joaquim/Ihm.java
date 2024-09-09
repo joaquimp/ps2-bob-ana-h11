@@ -15,7 +15,7 @@ public class Ihm {
 
         List<String> nomes = gerenciador.obterNomes();
 
-        for(int i=0; i<nomes.size; i++) {
+        for(int i=0; i<nomes.size(); i++) {
             System.out.println(nomes.get(i));
         }
     }
