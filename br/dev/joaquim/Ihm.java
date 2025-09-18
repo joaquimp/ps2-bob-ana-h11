@@ -2,6 +2,8 @@ package br.dev.joaquim;
 
 import java.util.*;
 
+// TODO: atualizar para usar a nova interface GerenciadorNomes
+
 public class Ihm {
     private GerenciadorNomes gerenciador;
 
